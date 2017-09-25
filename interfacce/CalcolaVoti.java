@@ -15,7 +15,6 @@ public class CalcolaVoti {
 		max=null;
 	}
 
-	//Metodi
 
 	public void addVoto(Measurable v){
 		listaVoti.add((VotoEsame) v);
