@@ -1,3 +1,6 @@
+//vieni bocciato
+
+
 /*
 Visualizzarne il punteggio massimo (anche in lettere) e medio.
 */
